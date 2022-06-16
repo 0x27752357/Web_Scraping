@@ -7,4 +7,4 @@
 <br>
 I'll try to add some features like random
 
-. ##### [Ganjoor](https://ganjoor.net)
+ ##### [.Ganjoor](https://ganjoor.net)
